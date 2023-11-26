@@ -1,0 +1,10 @@
+Flask
+tweepy
+requests
+
+#For Compatible Version but Glitch doesn't support this
+
+#Flask==2.3.2
+#tweepy==4.14.0
+#requests==2.31.0
+
