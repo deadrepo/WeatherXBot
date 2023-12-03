@@ -6,7 +6,7 @@
 
 Output Sample
 
-![](images/images.png)
+![](images/image.png)
 
 How to run ?
 -------------------
