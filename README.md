@@ -6,11 +6,11 @@
 
 Output Sample
 
-![](images/image.png)
+![](images/image.jpg)
 
 How to run ?
 -------------------
-- git clone `https://github.com/deadrepo/SnapshotRandomDelegators.git`
+- git clone `https://github.com/deadrepo/WeatherXBot.git`
 - pip install -r `requirements.txt`
 - python3 `main.py`
 
